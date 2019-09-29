@@ -13,7 +13,7 @@ public class demo {
         int temp4 = add(temp1,temp1);
         System.out.println("fdsfs");
 
-        String name = "";
+        String name = "123";
 
         if (name == null) {
 
