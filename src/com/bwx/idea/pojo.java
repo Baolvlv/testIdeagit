@@ -5,6 +5,8 @@ public class pojo {
     String sex = "man";
     Integer age = 10;
     int jj = 18;
+    
+    int dd = 9;
 
 
     public String getName() {
