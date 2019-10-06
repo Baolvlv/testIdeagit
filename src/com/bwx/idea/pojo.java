@@ -6,6 +6,7 @@ public class pojo {
     Integer age = 10;
     Integer height = 180;
     Integer weight = 90;
+    String status = "sad";
 
     public String getName() {
         return name;
