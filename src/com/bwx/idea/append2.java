@@ -6,4 +6,5 @@ public class append2 {
     int height;
     int weight;
     int gender;
+    int sad;
 }
