@@ -7,4 +7,5 @@ public class append2 {
     int weight;
     int gender;
     int sad;
+    String str = "this is shame";
 }
