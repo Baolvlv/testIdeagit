@@ -8,4 +8,5 @@ public class append2 {
     int gender;
     int sad;
     String str = "this is shame";
+    String str2 = "test";
 }
